@@ -1,0 +1,113 @@
+
+
+--- Feedback on 2026-01-06 23:57:36.350324 ---
+• Education details are missing.
+Score: 80/100
+
+--- Feedback on 2026-01-07 01:01:08.450789 ---
+Error generating feedback: Error code: 400 - {'error': {'message': 'The model `llama3-70b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+
+--- Feedback on 2026-01-07 01:03:19.050385 ---
+Error generating feedback: Error code: 400 - {'error': {'message': 'The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+
+--- Feedback on 2026-01-07 01:04:51.198449 ---
+**1. Professional Summary:**
+The given professional summary is a good starting point. However, it could be improved for better clarity and relevance. Here's a rewritten version:
+
+"Results-driven data science student with a passion for applying technical expertise in collaborative settings. Skilled in backend development, machine learning fundamentals, and database design. Dedicated to utilizing analytical skills to drive informed decision making and seeking an internship to bring real-world experience to my data projects."
+
+**2. Strengths:**
+
+- The resume highlights relevant education and certifications.
+- The candidate has hands-on experience in various programming languages, frameworks, and technologies.
+- The summary and project description showcase the candidate's skills and interests in data science.
+- The candidate has a decent social media presence with a GitHub link.
+- The candidate is taking an online BS in data science, which shows a commitment to continuous learning.
+
+**3. Weaknesses or Missing Sections:**
+
+- The resume lacks a clear and concise work experience section. Since the candidate is still in college, it's essential to highlight any relevant internships, projects, or experiences gained during the academic tenure.
+- There is no mention of technical skills proficiency levels (e.g., beginner, intermediate, advanced).
+- The resume could benefit from a "Certifications" section to include any industry-specific certifications or course completions.
+- The "Projects" section is concise but lacks specific metrics or achievements related to each project.
+- There is no mention of teamwork experience, leadership skills, or communication skills.
+- The resume lacks a section for "Achievements" or "Awards" that can highlight the candidate's accomplishments.
+
+**4. Improvements Suggestions:**
+
+- Emphasize relevant internships, projects, or experiences gained during the academic tenure.
+- Incorporate quantifiable metrics and achievements for each project to demonstrate the impact of the candidate's work.
+- Update the "Skills" section to include proficiency levels and any relevant soft skills.
+- Create a separate section for certifications, including relevant courses or training programs.
+- Expand the "Projects" section to include more details about the project, such as goals, technologies used, and outcomes.
+- Include specific examples and experiences that demonstrate teamwork, leadership, and communication skills.
+- Proofread the resume multiple times for grammar, punctuation, and formatting errors.
+
+**5. Score Out of 100:**
+The resume gets a score of 65 out of 100.
+
+**6. Improved Rewritten Resume:**
+
+[ Full Name ] Anumita K. Menon
+
+[ Address ] Bangalore | Karnataka
+
+[ Phone ] +91 8296807556
+
+[ Email ] anumita.menon@gmail.com
+
+[ LinkedIn ] [ Link ]
+
+[ GitHub ] https://github.com/anumita-14
+
+Education:
+
+- M.Sc. Data Science (Online) [University Name], [Expected Completion Date]
+    - Coursework: Machine Learning Foundations, Database Management Systems
+    - Relevant Course Projects: [ Project Name 1: Description; Metrics, Technologies Used, and Outcome; Project Name 2: Description; Metrics, Technologies Used, and Outcome ]
+
+- B-Tech in Computer Science and Engineering, SRM Institute of Science and Technology
+    - Specialization: Big Data Analytics
+    - Relevant Course Projects: [ Project Name 1: Description; Metrics, Technologies Used, and Outcome; Project Name 2: Description; Metrics, Technologies Used, and Outcome ]
+
+Technical Skills:
+
+- Programming Languages: C, C++, Java, Python, SQL
+- Technologies: Spring Boot, React, Spring Boot, Docker
+- Data Science Tools: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
+Soft Skills:
+
+- Teamwork and Collaboration
+- Leadership and Communication
+- Problem-solving and Analytical Thinking
+- Time Management and Adaptability
+
+Certifications:
+
+- [ Certification Name 1, Level of Certification, Issuing Organization, and Date of Completion ]
+- [ Certification Name 2, Level of Certification, Issuing Organization, and Date of Completion ]
+
+Projects:
+
+- Smart Budget Assistant: A Personal Finance Tool for Expense Tracking and Savings Goals
+    - Goals: Develop a tool that helps users track expenses, categorize spending, and set savings goals.
+    - Technologies Used: Spring Boot, React, REST APIs, Docker
+    - Outcome: Achieved an accuracy rate of 95% in detecting unusual spending patterns and recommending intelligent budget options.
+
+Professional Experience:
+
+- [Summer Internship 1, Company Name, Duration]
+    - Project Description: [ Briefly describe the project and your role ]
+    - Achievements: [ List any notable achievements or skills gained ]
+
+- [Summer Internship 2, Company Name, Duration]
+    - Project Description: [ Briefly describe the project and your role ]
+    - Achievements: [ List any notable achievements or skills gained ]
+
+Achievements:
+
+- [Award Name, Year, Awarding Organization]
+- [Publication/Conference Name, Year, Publication/Conference Organizer]
+
+[ Optional Section: Volunteer Experience ]
