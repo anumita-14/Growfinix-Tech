@@ -95,7 +95,7 @@ Languages: Python
 
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TextBlob, VADER, HuggingFace, Streamlit
 
-APIs: OpenAI API
+APIs: GROQ API
 
 Tools: GitHub, VS Code, Jupyter Notebook
 
